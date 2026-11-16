@@ -1,0 +1,14 @@
+# Visual Studio 编译产物
+.vs/
+bin/
+obj/
+
+# 用户本地配置
+*.user
+*.suo
+*.cache
+*.pdb
+*.ilk
+
+# 日志
+*.log
